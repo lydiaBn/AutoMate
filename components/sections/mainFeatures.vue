@@ -39,7 +39,7 @@
             <!-- Feature 3: Financial Questions -->
             <div class="grid grid-cols-1 md:grid-cols-2 gap-6 md:gap-[48px] mb-12 ">
                 <div class="order-1 md:order-1 flex justify-center items-center">
-                    <img src="~/assets/images/Analytics.png" alt="Financial Questions"
+                    <img src="~/assets/images/analytics.png" alt="Financial Questions"
                         class="rounded-lg shadow-lg max-w-full h-auto" />
                 </div>
                 <div class="order-1 md:order-2 flex flex-col justify-center md:mr-10">
