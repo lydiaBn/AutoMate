@@ -8,7 +8,7 @@
             <div class="grid grid-cols-1 md:grid-cols-3 gap-8 mx-4">
                 <!-- 1st type -->
                 <div class="flex flex-col items-center text-center">
-                    <div class="mb-6 rounded-lg overflow-hidden w-full h-[350px]">
+                    <div class="mb-6 rounded-lg overflow-hidden w-full h-[450px]">
                         <img
                             src="~/assets/images/SME.png"
                             alt="لأصحاب المشاريع الصغيرة"
@@ -22,7 +22,7 @@
 
                 <!-- 2nd type -->
                 <div class="flex flex-col items-center text-center">
-                    <div class="mb-6 rounded-lg overflow-hidden w-full h-[350px]">
+                    <div class="mb-6 rounded-lg overflow-hidden w-full h-[450px]">
                         <img
                             src="~/assets/images/corporate.png"
                             alt="للمستقلين"
@@ -36,7 +36,7 @@
 
                 <!-- 3rd type -->
                 <div class="flex flex-col items-center text-center">
-                    <div class="mb-6 rounded-lg overflow-hidden w-full h-[350px]">
+                    <div class="mb-6 rounded-lg overflow-hidden w-full h-[450px]">
                         <img
                             src="~/assets/images/gov.png"
                             alt="للي يبغون محاسبة بدون تعقيد"
