@@ -29,7 +29,7 @@
                 </div>
                 <div class="flex justify-center">
                     <!-- Mobile image -->
-                    <img src="/assets/images/hero2Mobile.svg" alt="تطبيق نمرة"
+                    <img src="/assets/images/hero2Desktop.svg" alt="تطبيق نمرة"
                         class="block md:hidden w-full h-auto rounded-lg mt-[60px]" />
 
                     <!-- Desktop image -->
