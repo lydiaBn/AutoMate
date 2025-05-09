@@ -35,7 +35,7 @@ export default {
           hid: 'description',
           name: 'description',
           content:
-            'AutoMate is an AI-powered automation platform that helps businesses streamline workflows, reduce manual work, and improve team productivity through smart, integrated solutions.'
+            ' AutoMate is an AI-powered automation platform that helps businesses streamline workflows, reduce manual work, and improve team productivity through smart, integrated solutions.'
         },
 
         // Open Graph / Facebook
@@ -45,7 +45,7 @@ export default {
         {
           property: 'og:description',
           content:
-            'Streamline your business with AI-powered automation. AutoMate simplifies your processes, boosts productivity, and integrates seamlessly with the tools you already use.'
+            ' Streamline your business with AI-powered automation, AutoMate simplifies your processes, boosts productivity, and integrates seamlessly with the tools you already use.'
         },
         { property: 'og:image', content: 'https://automate.ai/social-share.jpg' }, // Replace with real image URL
 
@@ -56,7 +56,7 @@ export default {
         {
           property: 'twitter:description',
           content:
-            'AutoMate helps teams automate workflows, organize tasks, and connect with CRMs, ERPs, and messaging apps — all without writing code.'
+            ' AutoMate helps teams automate workflows, organize tasks, and connect with CRMs, ERPs, and messaging apps — all without writing code.'
         },
         { property: 'twitter:image', content: 'https://automate.ai/social-share.jpg' }
       ],
