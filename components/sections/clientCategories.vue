@@ -8,19 +8,26 @@
             <div class="grid grid-cols-1 md:grid-cols-3 gap-8 mx-4">
                 <!-- 1st type -->
                 <div class="flex flex-col items-center text-center">
-                    <div class="mb-6 rounded-lg overflow-hidden">
-                        <img src="~/assets/images/smallbusiness.svg" alt="لأصحاب المشاريع الصغيرة"
-                            class="w-full h-auto" />
+                    <div class="mb-6 rounded-lg overflow-hidden w-full h-[350px]">
+                        <img
+                            src="~/assets/images/SME.png"
+                            alt="لأصحاب المشاريع الصغيرة"
+                            class="w-full h-full object-cover"
+                        />
                     </div>
                     <h3 class="text-2xl md:text-[26px] font-bold text-center align-middle">
-                    Small to Medium Enterprises (SMEs)
+                        Small to Medium Enterprises (SMEs)
                     </h3>
                 </div>
 
                 <!-- 2nd type -->
                 <div class="flex flex-col items-center text-center">
-                    <div class="mb-6 rounded-lg overflow-hidden">
-                        <img src="~/assets/images/freelancer.svg" alt="للمستقلين" class="w-full h-auto" />
+                    <div class="mb-6 rounded-lg overflow-hidden w-full h-[350px]">
+                        <img
+                            src="~/assets/images/corporate.png"
+                            alt="للمستقلين"
+                            class="w-full h-full object-cover"
+                        />
                     </div>
                     <h3 class="text-2xl md:text-[26px] font-bold text-center align-middle">
                         Corporate Enterprises
@@ -29,12 +36,15 @@
 
                 <!-- 3rd type -->
                 <div class="flex flex-col items-center text-center">
-                    <div class="mb-6 rounded-lg overflow-hidden">
-                        <img src="~/assets/images/businessman.svg" alt="للي يبغون محاسبة بدون تعقيد"
-                            class="w-full h-auto" />
+                    <div class="mb-6 rounded-lg overflow-hidden w-full h-[350px]">
+                        <img
+                            src="~/assets/images/gov.png"
+                            alt="للي يبغون محاسبة بدون تعقيد"
+                            class="w-full h-full object-cover"
+                        />
                     </div>
                     <h3 class="text-2xl md:text-[26px] font-bold text-center align-middle">
-                    Government Agencies
+                        Government Agencies
                     </h3>
                 </div>
             </div>
@@ -47,4 +57,3 @@ export default {
     name: 'ClientCategoriesSection'
 }
 </script>
-

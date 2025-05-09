@@ -7,7 +7,7 @@
             <!-- Feature 1: Easy Financial Recording -->
             <div class="grid grid-cols-1 md:grid-cols-2 gap-6 md:gap-[48px] mb-12 ">
                 <div class="order-1 md:order-1 flex justify-center items-center">
-                    <img src="~/assets/images/financialRecording.svg" alt="Financial Recording"
+                    <img src="~/assets/images/chatting.png" alt="Chatbot Interaction"
                         class="rounded-lg shadow-lg max-w-full h-auto" />
                 </div>
                 <div class="order-2 md:order-2 flex flex-col justify-center md:mr-10">
@@ -31,7 +31,7 @@
                     </p>
                 </div>
                 <div class="order-1 md:order-2 flex justify-center items-center">
-                    <img src="~/assets/images/invoiceUpload.svg" alt="Invoice Upload"
+                    <img src="~/assets/images/Workflows.png" alt="Customizable Workflows"
                         class="rounded-lg shadow-lg max-w-full h-auto" />
                 </div>
             </div>
@@ -39,7 +39,7 @@
             <!-- Feature 3: Financial Questions -->
             <div class="grid grid-cols-1 md:grid-cols-2 gap-6 md:gap-[48px] mb-12 ">
                 <div class="order-1 md:order-1 flex justify-center items-center">
-                    <img src="~/assets/images/financialQuestions.svg" alt="Financial Questions"
+                    <img src="~/assets/images/Analytics.png" alt="Financial Questions"
                         class="rounded-lg shadow-lg max-w-full h-auto" />
                 </div>
                 <div class="order-1 md:order-2 flex flex-col justify-center md:mr-10">
@@ -63,7 +63,7 @@
                     </p>
                 </div>
                 <div class="order-1 md:order-2 flex justify-center items-center">
-                    <img src="~/assets/images/accountingTerms.svg" alt="Accounting Terms"
+                    <img src="~/assets/images/security.jpg" alt="Secure Data"
                         class="rounded-lg shadow-lg max-w-full h-auto" />
                 </div>
             </div>

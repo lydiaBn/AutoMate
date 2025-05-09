@@ -8,7 +8,7 @@
       <!-- Step 1 -->
       <div class="text-center p-6 ">
         <div class="h-[64px] w-[64px] flex items-center justify-center mx-auto mb-3">
-          <img src="/assets/icons/1step.svg" alt="Send Message" />
+          <img src="/assets/icons/1step.png" alt="Send Message" />
         </div>
         <p class="font-bold text-xl md:text-2xl text-center">
           1. Connect
@@ -18,7 +18,7 @@
       <!-- Step 2 -->
       <div class="text-center p-6 ">
         <div class="h-[64px] w-[64px] flex items-center justify-center mx-auto mb-3">
-          <img src="/assets/icons/2step.svg" alt="Bot Response" />
+          <img src="/assets/icons/2step.png" alt="Bot Response" />
         </div>
         <p class="font-bold text-xl md:text-2xl text-center">
           2. Configure
@@ -28,7 +28,7 @@
       <!-- Step 3 -->
       <div class="text-center p-6 ">
         <div class=" h-[64px] w-[64px] flex items-center justify-center mx-auto mb-3">
-          <img src="/assets/icons/3step.svg" alt="Process Record" />
+          <img src="/assets/icons/3step.png" alt="Process Record" />
         </div>
         <p class="font-bold text-xl md:text-2xl text-center">
           3. Execute
@@ -38,7 +38,7 @@
       <!-- Step 4 -->
       <div class="text-center p-6 ">
         <div class=" h-[64px] w-[64px] flex items-center justify-center mx-auto mb-3">
-          <img src="/assets/icons/4step.svg" alt="Confirmation" />
+          <img src="/assets/icons/4step.png" alt="Confirmation" />
         </div>
         <p class="font-bold text-xl md:text-2xl text-center">
           4. Monitor

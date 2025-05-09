@@ -36,31 +36,31 @@
 <script setup>
 import { ref, computed } from 'vue';
 import TestimonialCard from '~/components/testimonialCard.vue';
-import badr from '../../assets/icons/badr.png';
-import abdellah from '../../assets/icons/abdellah.png';
-import saoudkh from '../../assets/icons/saoudkh.png';
+import badr from '../../assets/icons/badr.jpg';
+import abdellah from '../../assets/icons/abdellah.jpg';
+import saoudkh from '../../assets/icons/saoudkh.jpg';
 
 // Testimonials data
 const testimonials = [
   {
-    name: 'Saoud Al-Mutairi',
-    title: 'Small Business Owner',
+    name: 'Ahmed Maroufi',
+    title: 'Operations Manager, Logistics SME',
     rating: 5,
-    text: 'What I liked most about AutoMate is that it works via WhatsApp and Telegram. I didn’t need to install any new app! Everything is organized and I can track my finances easily from my phone.',
+    text: 'AutoMate helped us automate order tracking and internal task assignments. What used to take hours in spreadsheets now happens instantly with smart workflows.',
     image: saoudkh
   },
   {
-    name: 'Abdullah Al-Harbi',
-    title: 'Tech Company Founder',
+    name: 'Susan Miller',
+    title: 'HR Lead, Professional Services Firm',
     rating: 5,
-    text: 'AutoMate really simplified everything for me in accounting. No need to open software or platforms — I get all the reports and data directly on WhatsApp.',
+    text: 'Our HR team uses AutoMate to handle employee onboarding, document approvals, and leave requests — it’s smooth, fast, and fits right into our existing tools.',
     image: abdellah
   },
   {
-    name: 'Badr Al-Qahtani',
-    title: 'Entrepreneur',
+    name: 'Yassine Abaoud',
+    title: 'Founder, Growing Tech Startup',
     rating: 5,
-    text: 'The service is smart and convenient, with communication through WhatsApp without any extra apps. It saved me a lot of time and effort.',
+    text: 'I love that AutoMate connects with our CRM and email tools. I set up automated reports and reminders in minutes — no code, no clutter, just results.',
     image: badr
   }
 ];
