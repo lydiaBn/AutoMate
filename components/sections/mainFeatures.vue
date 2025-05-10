@@ -67,6 +67,23 @@
                         class="rounded-lg shadow-lg max-w-full h-auto" />
                 </div>
             </div>
+        
+           <!-- Feature 5: Fully API -->
+            <div class="grid grid-cols-1 md:grid-cols-2 gap-6 md:gap-[48px] mb-12 ">
+                <div class="order-1 md:order-1 flex justify-center items-center">
+  <img src="~/assets/images/api.jpg" alt="API Integration"
+       class="rounded-lg shadow-lg w-full max-w-md md:max-w-lg lg:max-w-xl h-auto" />
+</div>
+                <div class="order-1 md:order-2 flex flex-col justify-center md:mr-10">
+                    <h3 class="text-2xl md:text-[40px] font-bold text-center md:text-left mb-4 w-full">
+                        Fully API Enabled
+                    </h3>
+                    <p class="text-lg md:text-[20px] font-normal text-center md:text-left w-full">
+                        Seamlessly connect AutoMate to your existing tools and systems.
+                    </p>
+                </div>
+            </div>
+
         </div>
     </section>
 </template>
